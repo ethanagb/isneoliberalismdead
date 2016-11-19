@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Is neoliberalism dead yet?</title>
+    <description>A Simple Jekyll Blog Theme. # this means to ignore newlines until &quot;baseurl:&quot;
+</description>
+    <link>http://isneoliberalismdeadyet.com/</link>
+    <atom:link href="http://isneoliberalismdeadyet.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 19 Nov 2016 00:13:41 -0500</pubDate>
+    <lastBuildDate>Sat, 19 Nov 2016 00:13:41 -0500</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+  </channel>
+</rss>
